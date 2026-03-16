@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+
+This is a new line added for Git assignment.
